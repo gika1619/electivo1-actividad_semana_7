@@ -9,6 +9,15 @@ class Tarea{
         else
             return $n2;
 }
+
+function menordedosnmnumeros(){
+    return 0;
+    
+}
+
+
+
+
 }
 
 /* 
